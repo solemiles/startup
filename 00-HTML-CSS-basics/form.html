@@ -1,0 +1,68 @@
+<DOCTYPE! html>
+<html lang ="es">
+<meta charset="utf-8"
+<title>Submission Form</title> 
+<head>
+<body> 
+
+<form id="Contact Form"  method="post">
+	
+	<ul>
+		<li>
+			<label for="Name"> Name:</label>
+			<input type="text" required name="name" id="name" value=""/>
+			</li>
+				<li>
+					<label for="lastname">L Name:</label>
+            <input type="text" required name="ln" id="ln" value="" />
+        </li>
+        <li> 
+        		<label for="mail">Email:</label>
+            <input type="email" required name="mail" id="mail" value="" />
+        </li>
+        <li> 
+        		<label for="dob">DOB:</label>
+            <input type="text" required pattern "[0-9]*"=name="dob" id="dob" value="" />
+        </li>
+        <li>
+        	<label for="sport">Choose your favourite sport:</label>
+        	<select name="sport" id="sport">
+        		<option value="tenis">Tennis</option>
+    			<option value="soccer">Soccer</option>
+    			<option value="rugby">Rugby</option>
+    			<option value="golf">Golf</option>
+ 			</select></li>
+ 			<li>
+ 				<label for="bio">BIO:</label> <textarea name="bio" id="bio" cols="25" rows="3"></textarea>
+ 			</li>
+ 			<input type="submit" value="submit" /> <input type="reset" value="cancel" />
+
+
+ 			
+	</ul>
+
+
+
+
+
+
+</form>
+
+
+
+</body>
+
+
+
+
+</head>
+
+
+
+
+
+
+
+
+
+</html>
