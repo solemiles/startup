@@ -1,0 +1,17 @@
+header {background-color: #FF00FF; }
+header { text-align: center;}
+.header {font-size: 46px}
+
+
+
+footer {background-color: #FF00FF; }
+footer { text-align: center;}
+.footer{font-size: 10px}
+aside {background-color: #0000CD; }
+.sidebar {font-size: 10px}
+.sidebar {background-color: #FF00FF; }
+nav {background-color: #0000CD;}
+.navigation {font-size: 12px}
+body {font: 14px "Century Gothic","Trebuchet MS",Arial,Helvetica,sans-serif; }
+.content{font-size: 14px}
+
