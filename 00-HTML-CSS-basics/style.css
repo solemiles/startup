@@ -7,11 +7,15 @@ header { text-align: center;}
 footer {background-color: #FF00FF; }
 footer { text-align: center;}
 .footer{font-size: 10px}
+.footer {font-weight: 500}
 aside {background-color: #0000CD; }
 .sidebar {font-size: 10px}
 .sidebar {background-color: #FF00FF; }
+.sidebar {font-weight: 500}
 nav {background-color: #0000CD;}
 .navigation {font-size: 12px}
+.navigation {font-weight: 500}
 body {font: 14px "Century Gothic","Trebuchet MS",Arial,Helvetica,sans-serif; }
 .content{font-size: 14px}
+.content {font-weight: 500}
 
